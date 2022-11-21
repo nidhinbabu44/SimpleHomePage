@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="ad0c1ec4-bb95-45b0-bb15-db7da0a16091"
+   data-name="Layer 1"
+   width="974"
+   height="757.15033"
+   viewBox="0 0 974 757.15033"
+   version="1.1"
+   sodipodi:docname="ui_task_3.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata101">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>creative experiment</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs99" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     id="namedview97"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.44080335"
+     inkscape:cx="487"
+     inkscape:cy="378.57516"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ad0c1ec4-bb95-45b0-bb15-db7da0a16091" />
+  <title
+     id="title2">creative experiment</title>
+  <rect
+     x="264.63138"
+     y="326.73492"
+     width="50.000034"
+     height="50.000034"
+     transform="rotate(-35.40973)"
+     id="rect32"
+     style="fill:#6c63ff" />
+  <rect
+     x="273.63144"
+     y="319.73492"
+     width="50.000034"
+     height="50.000034"
+     transform="rotate(-35.40973)"
+     stroke-miterlimit="10"
+     id="rect34"
+     style="fill:none;stroke:#3f3d56;stroke-width:2;stroke-miterlimit:10" />
+  <circle
+     cx="290"
+     cy="121.90033"
+     r="21"
+     id="circle36"
+     style="fill:#6c63ff" />
+  <circle
+     cx="284"
+     cy="118.90033"
+     r="21"
+     stroke-miterlimit="10"
+     id="circle38"
+     style="fill:none;stroke:#3f3d56;stroke-width:2;stroke-miterlimit:10" />
+  <polygon
+     points="713.068,440.287 738.201,454.754 713.105,469.287 688.01,483.82 687.972,454.82 687.934,425.82 "
+     id="polygon40"
+     transform="translate(-567.14633,-335.75063)"
+     style="fill:#6c63ff" />
+  <polygon
+     points="709.028,451.271 734.162,465.738 709.066,480.271 683.97,494.803 683.932,465.803 683.895,436.803 "
+     stroke-miterlimit="10"
+     id="polygon42"
+     transform="translate(-567.14633,-335.75063)"
+     style="fill:none;stroke:#3f3d56;stroke-width:2;stroke-miterlimit:10" />
+</svg>

@@ -1,0 +1,115 @@
+.navbarend
+{
+  justify-content: flex-end !important;
+}
+.MainContainer
+{
+  display: flex;
+}
+.imageContainer
+{
+  width: 80%;
+}
+.FirstContainer
+{
+  padding: 80px;
+}
+.MainDiv
+{
+  padding: 20px;
+}
+.Firstin
+{
+  padding: 30px;
+}
+.buttonlog
+{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 20px;
+  width:30%;
+}
+.NeedMain
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #352e44;
+  color: white;
+}
+.needHead
+{
+  margin-top: 50px;
+}
+.contactbutton
+{
+  margin-bottom: 50px;
+}
+.cardmain
+{
+  display: flex;
+}
+.dia{
+  padding: 100px;
+  text-align: center;
+}
+.cardparagraph
+{
+  text-align: justify;
+}
+.cardbox
+{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+}
+.roundimg
+{
+  margin-bottom: 10px;
+}
+.modal-footer
+{
+  justify-content: center !important;
+}
+.contactctbtn
+{
+  background-color: #8F00FF !important;
+  color: white !important;
+}
+.loginclr
+{
+  display:flex ;
+  flex-direction: column;
+  background-color: #352e44;
+  color: white;
+}
+.modal-header
+{
+  background-color: #352e44;
+}
+.logbuttonmodal{
+  background-color: #352e44  !important;
+  color: white  !important;
+}
+
+@media (max-width: 1000px)
+{
+  .MainContainer
+  {
+    flex-direction: column-reverse;
+  }
+  .cardmain
+  {
+    flex-direction: column;
+  }
+  .FirstContainer
+  {
+    padding: 1px;
+  }
+  .BannerIMG
+  {
+    text-align: center;
+  }
+  .Firstin
+  {
+    text-align: justify;
+  }
+}
